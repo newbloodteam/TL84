@@ -1,2 +1,2 @@
-# TL84
-Press here: https://github.com/orgs/newbloodteam/teams/tl84
+# TL84 - General Issues
+# https://github.com/orgs/newbloodteam/teams/tl84
